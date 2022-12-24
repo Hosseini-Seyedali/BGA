@@ -2,7 +2,7 @@
 
 Requirements
 
-python == 3.10.9
+python == 3.10.9\n
 numpy == 1.21.5
 matplotlib == 3.5.2
 pandas == 1.4.3
