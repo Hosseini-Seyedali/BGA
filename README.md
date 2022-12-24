@@ -1,6 +1,6 @@
 ## Blood Gas Analyser (BGA) Project
 
-#### ´Requirements´
+#### `Requirements`
 
 python == 3.10.9
 numpy == 1.21.5
